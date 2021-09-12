@@ -1,4 +1,4 @@
-# Sistema Esperto di Suggerimento Luoghi Turistici
+# Sistema Esperto per Consiglio mete turistiche
 
 ## Come avviare il sistema
 1. Creare una copia di questo repository digitando il comando:
