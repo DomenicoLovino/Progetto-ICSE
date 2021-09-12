@@ -10,7 +10,7 @@ git clone https://github.com/DomenicoLovino/Progetto-ICSE
    &emsp;Cliccare su File -> Load, quindi selezionare la directory contenente i file clonati.
    
    &emsp;Cliccare sul file `codice sorgente.clp`
-3. Eseguire il sistema digitando in Clips
+3. Eseguire il sistema digitando in Clips:
 ``` 
 CLIPS> (run) 
 ```
